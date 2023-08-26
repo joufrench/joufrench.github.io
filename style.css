@@ -64,9 +64,18 @@
 
 #person_display{
     grid-column-start: 1;
-    text-align: left;
+    text-align: right;
 }
 
 #correct_ans{
     opacity: 0;
+    text-align: right;
+}
+
+#rate{
+    text-align: center;
+}
+
+#yesno{
+    text-align: center;
 }
