@@ -49,6 +49,31 @@ fetch("./output.json")
    rate.innerHTML = right + "/" + (wrong+right)
 })
 
+document.addEventListener("keydown", function(event) {
+  if (event.keyCode === 13) {
+    answer_given = inputed.value
+    if (answer_given == null){
+      return;
+    }
+    else if (answer_given == ans){
+      right += 1
+      yesno.innerHTML = ("Correct")
+      possible = make_list()
+      ans = update_verb(possible)
+      correct_ans.style.opacity = 0;
+      conju.value =""
+    }
+    else{
+      yesno.innerHTML = ("Incorect")
+      wrong+=1
+      correct_ans.style.opacity = 1;
+    }
+   rate.innerHTML = right + "/" + (wrong+right)
+    
+
+    event.preventDefault();
+  }});
+
 function make_list(){
   possible = []
   var ending = end.value;
