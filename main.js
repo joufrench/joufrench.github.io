@@ -116,7 +116,7 @@ function update_verb(possible){
     }
     else if(tense == "pc"){
       tense_displayable = "(Passé Composé)"
-      tense = "K"
+      tense = "A"
     }
     else if(tense == "I"){
       tense_displayable = "(Imparfait)"
@@ -159,15 +159,19 @@ function update_verb(possible){
 
 
     var correct_ans = document.getElementById("correct_ans")
-    if (tense == "K" && person_random_index<=2){
-      person_random_index = 0
+    if (tense == "A" && data[possible[randomIndex]][tense] == "e" && person_random_index<=2){
+      var corrct_placeholder = data["être"]["P"][person_random_index] + " " + data[possible[randomIndex]]["K"][0]
     }
-    else if(tense == "K" && person_random_index>=3){
-      person_random_index = 1
+    else if(tense == "A" && data[possible[randomIndex]][tense] == "e" && person_random_index>=3){
+      var corrct_placeholder = data["être"]["P"][person_random_index] + " " + data[possible[randomIndex]]["K"][1]
+    }
+    else if(tense == "A" && data[possible[randomIndex]][tense] == "a"){
+      var corrct_placeholder = data["avoir"]["P"][person_random_index] + " " + data[possible[randomIndex]]["K"][0]
+    }
+    else{
+      var corrct_placeholder = data[possible[randomIndex]][tense][person_random_index]
     }
     
-    
-    var corrct_placeholder = data[possible[randomIndex]][tense][person_random_index]
     
     correct_ans.innerHTML = corrct_placeholder
     return (corrct_placeholder)
