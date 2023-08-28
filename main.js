@@ -102,7 +102,7 @@ function make_list(){
 function update_verb(possible){
     person = ["je", "tu", "il/elle", "nous", "vous", "ils/elles"]
     person_alt = ["tu", "nous", "vous"]
-    tense_list = ["P","pc","I","F","Y","C"]
+    tense_list = ["P","pc","I","F","Y","C","PQP"]
     var tense = form.value;
 
     if (tense == "all_t"){
@@ -117,6 +117,10 @@ function update_verb(possible){
     else if(tense == "pc"){
       tense_displayable = "(Passé Composé)"
       tense = "A"
+    }
+    else if(tense == "PQP"){
+      tense_displayable = "(Plus-que-parfait"
+      tense = "PQP"
     }
     else if(tense == "I"){
       tense_displayable = "(Imparfait)"
@@ -157,7 +161,7 @@ function update_verb(possible){
       }
     }
 
-
+    console.log(possible[randomIndex],tense,person_random_index)
     var correct_ans = document.getElementById("correct_ans")
     if (tense == "A" && data[possible[randomIndex]][tense] == "e" && person_random_index<=2){
       var corrct_placeholder = data["être"]["P"][person_random_index] + " " + data[possible[randomIndex]]["K"][0]
@@ -168,10 +172,23 @@ function update_verb(possible){
     else if(tense == "A" && data[possible[randomIndex]][tense] == "a"){
       var corrct_placeholder = data["avoir"]["P"][person_random_index] + " " + data[possible[randomIndex]]["K"][0]
     }
+    else if(tense == "PQP"){
+      
+      if (data[possible[randomIndex]]["A"] == "e" && person_random_index<=2){
+        var corrct_placeholder = data["être"]["I"][person_random_index] + " " + data[possible[randomIndex]]["K"][0]
+      }
+      else if(data[possible[randomIndex]]["A"] == "e" && person_random_index>=3){
+        var corrct_placeholder = data["être"]["I"][person_random_index] + " " + data[possible[randomIndex]]["K"][1]
+      }
+      else if(data[possible[randomIndex]]["A"] == "a"){
+        var corrct_placeholder = data["avoir"]["I"][person_random_index] + " " + data[possible[randomIndex]]["K"][0]
+      }
+      
+    }
     else{
       var corrct_placeholder = data[possible[randomIndex]][tense][person_random_index]
     }
-    
+    console.log(corrct_placeholder)
     
     correct_ans.innerHTML = corrct_placeholder
     return (corrct_placeholder)
