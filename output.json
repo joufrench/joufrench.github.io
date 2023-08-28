@@ -9956,6 +9956,162 @@
             "pleuvoir"
         ]
     },
+    "\u00eatre": {
+        "P": [
+            "suis",
+            "es",
+            "est",
+            "sommes",
+            "\u00eates",
+            "sont"
+        ],
+        "S": [
+            "sois",
+            "sois",
+            "soit",
+            "soyons",
+            "soyez",
+            "soient"
+        ],
+        "Y": [
+            "NA",
+            "sois",
+            "NA",
+            "soyons",
+            "soyez",
+            "NA"
+        ],
+        "I": [
+            "\u00e9tais",
+            "\u00e9tais",
+            "\u00e9tait",
+            "\u00e9tions",
+            "\u00e9tiez",
+            "\u00e9taient"
+        ],
+        "G": [
+            "\u00e9tant"
+        ],
+        "K": [
+            "\u00e9t\u00e9",
+            "\u00e9t\u00e9",
+            "\u00e9t\u00e9",
+            "\u00e9t\u00e9"
+        ],
+        "J": [
+            "fus",
+            "fus",
+            "fut",
+            "f\u00fbmes",
+            "f\u00fbtes",
+            "furent"
+        ],
+        "T": [
+            "fusse",
+            "fusses",
+            "f\u00fbt",
+            "fussions",
+            "fussiez",
+            "fussent"
+        ],
+        "F": [
+            "serai",
+            "seras",
+            "sera",
+            "serons",
+            "serez",
+            "seront"
+        ],
+        "C": [
+            "serais",
+            "serais",
+            "serait",
+            "serions",
+            "seriez",
+            "seraient"
+        ],
+        "W": [
+            "\u00eatre"
+        ]
+    },
+    "avoir": {
+        "P": [
+            "ai",
+            "as",
+            "a",
+            "avons",
+            "avez",
+            "ont"
+        ],
+        "S": [
+            "aie",
+            "aies",
+            "ait",
+            "ayons",
+            "ayez",
+            "aient"
+        ],
+        "Y": [
+            "NA",
+            "aie",
+            "NA",
+            "ayons",
+            "ayez",
+            "NA"
+        ],
+        "I": [
+            "avais",
+            "avais",
+            "avait",
+            "avions",
+            "aviez",
+            "avaient"
+        ],
+        "G": [
+            "ayant"
+        ],
+        "K": [
+            "eu",
+            "eus",
+            "eue",
+            "eues"
+        ],
+        "J": [
+            "eus",
+            "eus",
+            "eut",
+            "e\u00fbmes",
+            "e\u00fbtes",
+            "eurent"
+        ],
+        "T": [
+            "eusse",
+            "eusses",
+            "e\u00fbt",
+            "eussions",
+            "eussiez",
+            "eussent"
+        ],
+        "F": [
+            "aurai",
+            "auras",
+            "aura",
+            "aurons",
+            "aurez",
+            "auront"
+        ],
+        "C": [
+            "aurais",
+            "aurais",
+            "aurait",
+            "aurions",
+            "auriez",
+            "auraient"
+        ],
+        "W": [
+            "avoir"
+        ]
+    },
     "aller": {
         "P": [
             "vais",
@@ -10032,6 +10188,1098 @@
         ],
         "W": [
             "aller"
+        ]
+    },
+    "penser": {
+        "P": [
+            "pense",
+            "penses",
+            "pense",
+            "pensons",
+            "pensez",
+            "pensent"
+        ],
+        "S": [
+            "pense",
+            "penses",
+            "pense",
+            "pensions",
+            "pensiez",
+            "pensent"
+        ],
+        "Y": [
+            "NA",
+            "pense",
+            "NA",
+            "pensons",
+            "pensez",
+            "NA"
+        ],
+        "I": [
+            "pensais",
+            "pensais",
+            "pensait",
+            "pensions",
+            "pensiez",
+            "pensaient"
+        ],
+        "G": [
+            "pensant"
+        ],
+        "K": [
+            "pens\u00e9",
+            "pens\u00e9s",
+            "pens\u00e9e",
+            "pens\u00e9es"
+        ],
+        "J": [
+            "pensai",
+            "pensas",
+            "pensa",
+            "pens\u00e2mes",
+            "pens\u00e2tes",
+            "pens\u00e8rent"
+        ],
+        "T": [
+            "pensasse",
+            "pensasses",
+            "pens\u00e2t",
+            "pensassions",
+            "pensassiez",
+            "pensassent"
+        ],
+        "F": [
+            "penserai",
+            "penseras",
+            "pensera",
+            "penserons",
+            "penserez",
+            "penseront"
+        ],
+        "C": [
+            "penserais",
+            "penserais",
+            "penserait",
+            "penserions",
+            "penseriez",
+            "penseraient"
+        ],
+        "W": [
+            "penser"
+        ]
+    },
+    "rester": {
+        "P": [
+            "reste",
+            "restes",
+            "reste",
+            "restons",
+            "restez",
+            "restent"
+        ],
+        "S": [
+            "reste",
+            "restes",
+            "reste",
+            "restions",
+            "restiez",
+            "restent"
+        ],
+        "Y": [
+            "NA",
+            "reste",
+            "NA",
+            "restons",
+            "restez",
+            "NA"
+        ],
+        "I": [
+            "restais",
+            "restais",
+            "restait",
+            "restions",
+            "restiez",
+            "restaient"
+        ],
+        "G": [
+            "restant"
+        ],
+        "K": [
+            "rest\u00e9",
+            "rest\u00e9s",
+            "rest\u00e9e",
+            "rest\u00e9es"
+        ],
+        "J": [
+            "restai",
+            "restas",
+            "resta",
+            "rest\u00e2mes",
+            "rest\u00e2tes",
+            "rest\u00e8rent"
+        ],
+        "T": [
+            "restasse",
+            "restasses",
+            "rest\u00e2t",
+            "restassions",
+            "restassiez",
+            "restassent"
+        ],
+        "F": [
+            "resterai",
+            "resteras",
+            "restera",
+            "resterons",
+            "resterez",
+            "resteront"
+        ],
+        "C": [
+            "resterais",
+            "resterais",
+            "resterait",
+            "resterions",
+            "resteriez",
+            "resteraient"
+        ],
+        "W": [
+            "rester"
+        ]
+    },
+    "travailler": {
+        "P": [
+            "travaille",
+            "travailles",
+            "travaille",
+            "travaillons",
+            "travaillez",
+            "travaillent"
+        ],
+        "S": [
+            "travaille",
+            "travailles",
+            "travaille",
+            "travaillions",
+            "travailliez",
+            "travaillent"
+        ],
+        "Y": [
+            "NA",
+            "travaille",
+            "NA",
+            "travaillons",
+            "travaillez",
+            "NA"
+        ],
+        "I": [
+            "travaillais",
+            "travaillais",
+            "travaillait",
+            "travaillions",
+            "travailliez",
+            "travaillaient"
+        ],
+        "G": [
+            "travaillant"
+        ],
+        "K": [
+            "travaill\u00e9",
+            "travaill\u00e9s",
+            "travaill\u00e9e",
+            "travaill\u00e9es"
+        ],
+        "J": [
+            "travaillai",
+            "travaillas",
+            "travailla",
+            "travaill\u00e2mes",
+            "travaill\u00e2tes",
+            "travaill\u00e8rent"
+        ],
+        "T": [
+            "travaillasse",
+            "travaillasses",
+            "travaill\u00e2t",
+            "travaillassions",
+            "travaillassiez",
+            "travaillassent"
+        ],
+        "F": [
+            "travaillerai",
+            "travailleras",
+            "travaillera",
+            "travaillerons",
+            "travaillerez",
+            "travailleront"
+        ],
+        "C": [
+            "travaillerais",
+            "travaillerais",
+            "travaillerait",
+            "travaillerions",
+            "travailleriez",
+            "travailleraient"
+        ],
+        "W": [
+            "travailler"
+        ]
+    },
+    "\u00e9couter": {
+        "P": [
+            "\u00e9coute",
+            "\u00e9coutes",
+            "\u00e9coute",
+            "\u00e9coutons",
+            "\u00e9coutez",
+            "\u00e9coutent"
+        ],
+        "S": [
+            "\u00e9coute",
+            "\u00e9coutes",
+            "\u00e9coute",
+            "\u00e9coutions",
+            "\u00e9coutiez",
+            "\u00e9coutent"
+        ],
+        "Y": [
+            "NA",
+            "\u00e9coute",
+            "NA",
+            "\u00e9coutons",
+            "\u00e9coutez",
+            "NA"
+        ],
+        "I": [
+            "\u00e9coutais",
+            "\u00e9coutais",
+            "\u00e9coutait",
+            "\u00e9coutions",
+            "\u00e9coutiez",
+            "\u00e9coutaient"
+        ],
+        "G": [
+            "\u00e9coutant"
+        ],
+        "K": [
+            "\u00e9cout\u00e9",
+            "\u00e9cout\u00e9s",
+            "\u00e9cout\u00e9e",
+            "\u00e9cout\u00e9es"
+        ],
+        "J": [
+            "\u00e9coutai",
+            "\u00e9coutas",
+            "\u00e9couta",
+            "\u00e9cout\u00e2mes",
+            "\u00e9cout\u00e2tes",
+            "\u00e9cout\u00e8rent"
+        ],
+        "T": [
+            "\u00e9coutasse",
+            "\u00e9coutasses",
+            "\u00e9cout\u00e2t",
+            "\u00e9coutassions",
+            "\u00e9coutassiez",
+            "\u00e9coutassent"
+        ],
+        "F": [
+            "\u00e9couterai",
+            "\u00e9couteras",
+            "\u00e9coutera",
+            "\u00e9couterons",
+            "\u00e9couterez",
+            "\u00e9couteront"
+        ],
+        "C": [
+            "\u00e9couterais",
+            "\u00e9couterais",
+            "\u00e9couterait",
+            "\u00e9couterions",
+            "\u00e9couteriez",
+            "\u00e9couteraient"
+        ],
+        "W": [
+            "\u00e9couter"
+        ]
+    },
+    "laisser": {
+        "P": [
+            "laisse",
+            "laisses",
+            "laisse",
+            "laissons",
+            "laissez",
+            "laissent"
+        ],
+        "S": [
+            "laisse",
+            "laisses",
+            "laisse",
+            "laissions",
+            "laissiez",
+            "laissent"
+        ],
+        "Y": [
+            "NA",
+            "laisse",
+            "NA",
+            "laissons",
+            "laissez",
+            "NA"
+        ],
+        "I": [
+            "laissais",
+            "laissais",
+            "laissait",
+            "laissions",
+            "laissiez",
+            "laissaient"
+        ],
+        "G": [
+            "laissant"
+        ],
+        "K": [
+            "laiss\u00e9",
+            "laiss\u00e9s",
+            "laiss\u00e9e",
+            "laiss\u00e9es"
+        ],
+        "J": [
+            "laissai",
+            "laissas",
+            "laissa",
+            "laiss\u00e2mes",
+            "laiss\u00e2tes",
+            "laiss\u00e8rent"
+        ],
+        "T": [
+            "laissasse",
+            "laissasses",
+            "laiss\u00e2t",
+            "laissassions",
+            "laissassiez",
+            "laissassent"
+        ],
+        "F": [
+            "laisserai",
+            "laisseras",
+            "laissera",
+            "laisserons",
+            "laisserez",
+            "laisseront"
+        ],
+        "C": [
+            "laisserais",
+            "laisserais",
+            "laisserait",
+            "laisserions",
+            "laisseriez",
+            "laisseraient"
+        ],
+        "W": [
+            "laisser"
+        ]
+    },
+    "rentrer": {
+        "P": [
+            "rentre",
+            "rentres",
+            "rentre",
+            "rentrons",
+            "rentrez",
+            "rentrent"
+        ],
+        "S": [
+            "rentre",
+            "rentres",
+            "rentre",
+            "rentrions",
+            "rentriez",
+            "rentrent"
+        ],
+        "Y": [
+            "NA",
+            "rentre",
+            "NA",
+            "rentrons",
+            "rentrez",
+            "NA"
+        ],
+        "I": [
+            "rentrais",
+            "rentrais",
+            "rentrait",
+            "rentrions",
+            "rentriez",
+            "rentraient"
+        ],
+        "G": [
+            "rentrant"
+        ],
+        "K": [
+            "rentr\u00e9",
+            "rentr\u00e9s",
+            "rentr\u00e9e",
+            "rentr\u00e9es"
+        ],
+        "J": [
+            "rentrai",
+            "rentras",
+            "rentra",
+            "rentr\u00e2mes",
+            "rentr\u00e2tes",
+            "rentr\u00e8rent"
+        ],
+        "T": [
+            "rentrasse",
+            "rentrasses",
+            "rentr\u00e2t",
+            "rentrassions",
+            "rentrassiez",
+            "rentrassent"
+        ],
+        "F": [
+            "rentrerai",
+            "rentreras",
+            "rentrera",
+            "rentrerons",
+            "rentrerez",
+            "rentreront"
+        ],
+        "C": [
+            "rentrerais",
+            "rentrerais",
+            "rentrerait",
+            "rentrerions",
+            "rentreriez",
+            "rentreraient"
+        ],
+        "W": [
+            "rentrer"
+        ]
+    },
+    "marcher": {
+        "P": [
+            "marche",
+            "marches",
+            "marche",
+            "marchons",
+            "marchez",
+            "marchent"
+        ],
+        "S": [
+            "marche",
+            "marches",
+            "marche",
+            "marchions",
+            "marchiez",
+            "marchent"
+        ],
+        "Y": [
+            "NA",
+            "marche",
+            "NA",
+            "marchons",
+            "marchez",
+            "NA"
+        ],
+        "I": [
+            "marchais",
+            "marchais",
+            "marchait",
+            "marchions",
+            "marchiez",
+            "marchaient"
+        ],
+        "G": [
+            "marchant"
+        ],
+        "K": [
+            "march\u00e9",
+            "march\u00e9s",
+            "march\u00e9e",
+            "march\u00e9es"
+        ],
+        "J": [
+            "marchai",
+            "marchas",
+            "marcha",
+            "march\u00e2mes",
+            "march\u00e2tes",
+            "march\u00e8rent"
+        ],
+        "T": [
+            "marchasse",
+            "marchasses",
+            "march\u00e2t",
+            "marchassions",
+            "marchassiez",
+            "marchassent"
+        ],
+        "F": [
+            "marcherai",
+            "marcheras",
+            "marchera",
+            "marcherons",
+            "marcherez",
+            "marcheront"
+        ],
+        "C": [
+            "marcherais",
+            "marcherais",
+            "marcherait",
+            "marcherions",
+            "marcheriez",
+            "marcheraient"
+        ],
+        "W": [
+            "marcher"
+        ]
+    },
+    "revenir": {
+        "P": [
+            "reviens",
+            "reviens",
+            "revient",
+            "revenons",
+            "revenez",
+            "reviennent"
+        ],
+        "S": [
+            "revienne",
+            "reviennes",
+            "revienne",
+            "revenions",
+            "reveniez",
+            "reviennent"
+        ],
+        "Y": [
+            "NA",
+            "reviens",
+            "NA",
+            "revenons",
+            "revenez",
+            "NA"
+        ],
+        "I": [
+            "revenais",
+            "revenais",
+            "revenait",
+            "revenions",
+            "reveniez",
+            "revenaient"
+        ],
+        "G": [
+            "revenant"
+        ],
+        "K": [
+            "revenu",
+            "revenus",
+            "revenue",
+            "revenues"
+        ],
+        "J": [
+            "revins",
+            "revins",
+            "revint",
+            "rev\u00eenmes",
+            "rev\u00eentes",
+            "revinrent"
+        ],
+        "T": [
+            "revinsse",
+            "revinsses",
+            "rev\u00eent",
+            "revinssions",
+            "revinssiez",
+            "revinssent"
+        ],
+        "F": [
+            "reviendrai",
+            "reviendras",
+            "reviendra",
+            "reviendrons",
+            "reviendrez",
+            "reviendront"
+        ],
+        "C": [
+            "reviendrais",
+            "reviendrais",
+            "reviendrait",
+            "reviendrions",
+            "reviendriez",
+            "reviendraient"
+        ],
+        "W": [
+            "revenir"
+        ]
+    },
+    "b\u00e2tir": {
+        "P": [
+            "b\u00e2tis",
+            "b\u00e2tis",
+            "b\u00e2tit",
+            "b\u00e2tissons",
+            "b\u00e2tissez",
+            "b\u00e2tissent"
+        ],
+        "S": [
+            "b\u00e2tisse",
+            "b\u00e2tisses",
+            "b\u00e2tisse",
+            "b\u00e2tissions",
+            "b\u00e2tissiez",
+            "b\u00e2tissent"
+        ],
+        "Y": [
+            "NA",
+            "b\u00e2tis",
+            "NA",
+            "b\u00e2tissons",
+            "b\u00e2tissez",
+            "NA"
+        ],
+        "I": [
+            "b\u00e2tissais",
+            "b\u00e2tissais",
+            "b\u00e2tissait",
+            "b\u00e2tissions",
+            "b\u00e2tissiez",
+            "b\u00e2tissaient"
+        ],
+        "G": [
+            "b\u00e2tissant"
+        ],
+        "K": [
+            "b\u00e2ti",
+            "b\u00e2tis",
+            "b\u00e2tie",
+            "b\u00e2ties"
+        ],
+        "J": [
+            "b\u00e2tis",
+            "b\u00e2tis",
+            "b\u00e2tit",
+            "b\u00e2t\u00eemes",
+            "b\u00e2t\u00eetes",
+            "b\u00e2tirent"
+        ],
+        "T": [
+            "b\u00e2tisse",
+            "b\u00e2tisses",
+            "b\u00e2t\u00eet",
+            "b\u00e2tissions",
+            "b\u00e2tissiez",
+            "b\u00e2tissent"
+        ],
+        "F": [
+            "b\u00e2tirai",
+            "b\u00e2tiras",
+            "b\u00e2tira",
+            "b\u00e2tirons",
+            "b\u00e2tirez",
+            "b\u00e2tiront"
+        ],
+        "C": [
+            "b\u00e2tirais",
+            "b\u00e2tirais",
+            "b\u00e2tirait",
+            "b\u00e2tirions",
+            "b\u00e2tiriez",
+            "b\u00e2tiraient"
+        ],
+        "W": [
+            "b\u00e2tir"
+        ]
+    },
+    "porter": {
+        "P": [
+            "porte",
+            "portes",
+            "porte",
+            "portons",
+            "portez",
+            "portent"
+        ],
+        "S": [
+            "porte",
+            "portes",
+            "porte",
+            "portions",
+            "portiez",
+            "portent"
+        ],
+        "Y": [
+            "NA",
+            "porte",
+            "NA",
+            "portons",
+            "portez",
+            "NA"
+        ],
+        "I": [
+            "portais",
+            "portais",
+            "portait",
+            "portions",
+            "portiez",
+            "portaient"
+        ],
+        "G": [
+            "portant"
+        ],
+        "K": [
+            "port\u00e9",
+            "port\u00e9s",
+            "port\u00e9e",
+            "port\u00e9es"
+        ],
+        "J": [
+            "portai",
+            "portas",
+            "porta",
+            "port\u00e2mes",
+            "port\u00e2tes",
+            "port\u00e8rent"
+        ],
+        "T": [
+            "portasse",
+            "portasses",
+            "port\u00e2t",
+            "portassions",
+            "portassiez",
+            "portassent"
+        ],
+        "F": [
+            "porterai",
+            "porteras",
+            "portera",
+            "porterons",
+            "porterez",
+            "porteront"
+        ],
+        "C": [
+            "porterais",
+            "porterais",
+            "porterait",
+            "porterions",
+            "porteriez",
+            "porteraient"
+        ],
+        "W": [
+            "porter"
+        ]
+    },
+    "tomber": {
+        "P": [
+            "tombe",
+            "tombes",
+            "tombe",
+            "tombons",
+            "tombez",
+            "tombent"
+        ],
+        "S": [
+            "tombe",
+            "tombes",
+            "tombe",
+            "tombions",
+            "tombiez",
+            "tombent"
+        ],
+        "Y": [
+            "NA",
+            "tombe",
+            "NA",
+            "tombons",
+            "tombez",
+            "NA"
+        ],
+        "I": [
+            "tombais",
+            "tombais",
+            "tombait",
+            "tombions",
+            "tombiez",
+            "tombaient"
+        ],
+        "G": [
+            "tombant"
+        ],
+        "K": [
+            "tomb\u00e9",
+            "tomb\u00e9s",
+            "tomb\u00e9e",
+            "tomb\u00e9es"
+        ],
+        "J": [
+            "tombai",
+            "tombas",
+            "tomba",
+            "tomb\u00e2mes",
+            "tomb\u00e2tes",
+            "tomb\u00e8rent"
+        ],
+        "T": [
+            "tombasse",
+            "tombasses",
+            "tomb\u00e2t",
+            "tombassions",
+            "tombassiez",
+            "tombassent"
+        ],
+        "F": [
+            "tomberai",
+            "tomberas",
+            "tombera",
+            "tomberons",
+            "tomberez",
+            "tomberont"
+        ],
+        "C": [
+            "tomberais",
+            "tomberais",
+            "tomberait",
+            "tomberions",
+            "tomberiez",
+            "tomberaient"
+        ],
+        "W": [
+            "tomber"
+        ]
+    },
+    "sauter": {
+        "P": [
+            "saute",
+            "sautes",
+            "saute",
+            "sautons",
+            "sautez",
+            "sautent"
+        ],
+        "S": [
+            "saute",
+            "sautes",
+            "saute",
+            "sautions",
+            "sautiez",
+            "sautent"
+        ],
+        "Y": [
+            "NA",
+            "saute",
+            "NA",
+            "sautons",
+            "sautez",
+            "NA"
+        ],
+        "I": [
+            "sautais",
+            "sautais",
+            "sautait",
+            "sautions",
+            "sautiez",
+            "sautaient"
+        ],
+        "G": [
+            "sautant"
+        ],
+        "K": [
+            "saut\u00e9",
+            "saut\u00e9s",
+            "saut\u00e9e",
+            "saut\u00e9es"
+        ],
+        "J": [
+            "sautai",
+            "sautas",
+            "sauta",
+            "saut\u00e2mes",
+            "saut\u00e2tes",
+            "saut\u00e8rent"
+        ],
+        "T": [
+            "sautasse",
+            "sautasses",
+            "saut\u00e2t",
+            "sautassions",
+            "sautassiez",
+            "sautassent"
+        ],
+        "F": [
+            "sauterai",
+            "sauteras",
+            "sautera",
+            "sauterons",
+            "sauterez",
+            "sauteront"
+        ],
+        "C": [
+            "sauterais",
+            "sauterais",
+            "sauterait",
+            "sauterions",
+            "sauteriez",
+            "sauteraient"
+        ],
+        "W": [
+            "sauter"
+        ]
+    },
+    "nourrir": {
+        "P": [
+            "nourris",
+            "nourris",
+            "nourrit",
+            "nourrissons",
+            "nourrissez",
+            "nourrissent"
+        ],
+        "S": [
+            "nourrisse",
+            "nourrisses",
+            "nourrisse",
+            "nourrissions",
+            "nourrissiez",
+            "nourrissent"
+        ],
+        "Y": [
+            "NA",
+            "nourris",
+            "NA",
+            "nourrissons",
+            "nourrissez",
+            "NA"
+        ],
+        "I": [
+            "nourrissais",
+            "nourrissais",
+            "nourrissait",
+            "nourrissions",
+            "nourrissiez",
+            "nourrissaient"
+        ],
+        "G": [
+            "nourrissant"
+        ],
+        "K": [
+            "nourri",
+            "nourris",
+            "nourrie",
+            "nourries"
+        ],
+        "J": [
+            "nourris",
+            "nourris",
+            "nourrit",
+            "nourr\u00eemes",
+            "nourr\u00eetes",
+            "nourrirent"
+        ],
+        "T": [
+            "nourrisse",
+            "nourrisses",
+            "nourr\u00eet",
+            "nourrissions",
+            "nourrissiez",
+            "nourrissent"
+        ],
+        "F": [
+            "nourrirai",
+            "nourriras",
+            "nourrira",
+            "nourrirons",
+            "nourrirez",
+            "nourriront"
+        ],
+        "C": [
+            "nourrirais",
+            "nourrirais",
+            "nourrirait",
+            "nourririons",
+            "nourririez",
+            "nourriraient"
+        ],
+        "W": [
+            "nourrir"
+        ]
+    },
+    "mordre": {
+        "P": [
+            "mords",
+            "mords",
+            "mord",
+            "mordons",
+            "mordez",
+            "mordent"
+        ],
+        "S": [
+            "morde",
+            "mordes",
+            "morde",
+            "mordions",
+            "mordiez",
+            "mordent"
+        ],
+        "Y": [
+            "NA",
+            "mords",
+            "NA",
+            "mordons",
+            "mordez",
+            "NA"
+        ],
+        "I": [
+            "mordais",
+            "mordais",
+            "mordait",
+            "mordions",
+            "mordiez",
+            "mordaient"
+        ],
+        "G": [
+            "mordant"
+        ],
+        "K": [
+            "mordu",
+            "mordus",
+            "mordue",
+            "mordues"
+        ],
+        "J": [
+            "mordis",
+            "mordis",
+            "mordit",
+            "mord\u00eemes",
+            "mord\u00eetes",
+            "mordirent"
+        ],
+        "T": [
+            "mordisse",
+            "mordisses",
+            "mord\u00eet",
+            "mordissions",
+            "mordissiez",
+            "mordissent"
+        ],
+        "F": [
+            "mordrai",
+            "mordras",
+            "mordra",
+            "mordrons",
+            "mordrez",
+            "mordront"
+        ],
+        "C": [
+            "mordrais",
+            "mordrais",
+            "mordrait",
+            "mordrions",
+            "mordriez",
+            "mordraient"
+        ],
+        "W": [
+            "mordre"
         ]
     }
 }
