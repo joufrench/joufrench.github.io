@@ -30,10 +30,12 @@ fetch("./output.json")
 
   next.addEventListener('click',()=>{
     answer_given = inputed.value
-    if (answer_given == null){
-      return;
+    if (!answer_given){
+      answer_given = null;
+      console.log(answer_given)
     }
-    else if (answer_given == ans){
+    
+    if (answer_given === ans){
       right += 1
       yesno.innerHTML = ("Correct")
       possible = make_list()
@@ -102,7 +104,7 @@ function make_list(){
 function update_verb(possible){
     person = ["je", "tu", "il/elle", "nous", "vous", "ils/elles"]
     person_alt = ["tu", "nous", "vous"]
-    tense_list = ["P","pc","I","F","Y","C","PQP"]
+    tense_list = ["P","pc","I","F","Y","C","PQP","SUB"]
     var tense = form.value;
 
     if (tense == "all_t"){
@@ -119,7 +121,7 @@ function update_verb(possible){
       tense = "A"
     }
     else if(tense == "PQP"){
-      tense_displayable = "(Plus-que-parfait)"
+      tense_displayable = "(Plus-que-parfait"
       tense = "PQP"
     }
     else if(tense == "I"){
@@ -129,10 +131,14 @@ function update_verb(possible){
       tense_displayable = "(Future Simple)"
     }
     else if(tense == "Y"){
-      tense_displayable = "(Impértif)"
+      tense_displayable = "(Impérative)"
     }
     else if(tense == "C"){
       tense_displayable = "(Conditionnel)"
+    } 
+    else if(tense == "SUB"){
+      tense_displayable = "(Subjunctive)"
+      tense = "S"
     } 
 
     //display verb and tense
