@@ -121,7 +121,7 @@ function update_verb(possible){
       tense = "A"
     }
     else if(tense == "PQP"){
-      tense_displayable = "(Plus-que-parfait"
+      tense_displayable = "(Plus-que-parfait)"
       tense = "PQP"
     }
     else if(tense == "I"){
