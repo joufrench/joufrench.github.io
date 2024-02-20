@@ -104,7 +104,7 @@ function make_list(){
 function update_verb(possible){
     person = ["je", "tu", "il/elle", "nous", "vous", "ils/elles"]
     person_alt = ["tu", "nous", "vous"]
-    tense_list = ["P","pc","I","F","Y","C","PQP","SUB"]
+    tense_list = ["P","pc","I","F","Y","C","PQP","SUB","CONP"]
     var tense = form.value;
 
     if (tense == "all_t"){
@@ -139,6 +139,10 @@ function update_verb(possible){
     else if(tense == "SUB"){
       tense_displayable = "(Subjunctive)"
       tense = "S"
+    } 
+    else if(tense == "CONP"){
+      tense_displayable = "(Conditionnel Passé)"
+      tense = "CONP"
     } 
 
     //display verb and tense
@@ -179,7 +183,6 @@ function update_verb(possible){
       var corrct_placeholder = data["avoir"]["P"][person_random_index] + " " + data[possible[randomIndex]]["K"][0]
     }
     else if(tense == "PQP"){
-      
       if (data[possible[randomIndex]]["A"] == "e" && person_random_index<=2){
         var corrct_placeholder = data["être"]["I"][person_random_index] + " " + data[possible[randomIndex]]["K"][0]
       }
@@ -189,7 +192,17 @@ function update_verb(possible){
       else if(data[possible[randomIndex]]["A"] == "a"){
         var corrct_placeholder = data["avoir"]["I"][person_random_index] + " " + data[possible[randomIndex]]["K"][0]
       }
-      
+    }
+    else if(tense == "CONP"){
+      if (data[possible[randomIndex]]["A"] == "e" && person_random_index<=2){
+        var corrct_placeholder = data["être"]["C"][person_random_index] + " " + data[possible[randomIndex]]["K"][0]
+      }
+      else if(data[possible[randomIndex]]["A"] == "e" && person_random_index>=3){
+        var corrct_placeholder = data["être"]["C"][person_random_index] + " " + data[possible[randomIndex]]["K"][1]
+      }
+      else if(data[possible[randomIndex]]["A"] == "a"){
+        var corrct_placeholder = data["avoir"]["C"][person_random_index] + " " + data[possible[randomIndex]]["K"][0]
+      }
     }
     else{
       var corrct_placeholder = data[possible[randomIndex]][tense][person_random_index]
