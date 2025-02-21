@@ -32,12 +32,10 @@ fetch("./translations.json")
 
   next.addEventListener('click',()=>{
     answer_given = inputed.value
-    if (!answer_given){
-      answer_given = null;
-      console.log(answer_given)
+    if (answer_given == null){
+      return;
     }
-    
-    if (ans.includes(answer_given)){
+    else if (ans.includes(answer_given)){
       right += 1
       yesno.innerHTML = ("Correct")
       possible = make_list()
@@ -51,6 +49,9 @@ fetch("./translations.json")
       correct_ans.style.opacity = 1;
     }
    rate.innerHTML = right + "/" + (wrong+right)
+    
+
+    event.preventDefault();
 })
 
 document.getElementById("mode").addEventListener("change", function(event) {
