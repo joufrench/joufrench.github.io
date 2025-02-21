@@ -67,6 +67,10 @@ document.getElementById("mode").addEventListener("change", function(event) {
 document.addEventListener("keydown", function(event) {
   if (event.keyCode === 13) {
     answer_given = inputed.value
+    if (!answer_given){
+      answer_given = null;
+      console.log(answer_given)
+    }
     if (answer_given == null){
       return;
     }
