@@ -10274,7 +10274,7 @@
             "pleut",
             null,
             null,
-            "pleuvent"
+            null
         ],
         "S": [
             null,
@@ -10282,7 +10282,7 @@
             "pleuve",
             null,
             null,
-            "pleuvent"
+            null
         ],
         "I": [
             null,
@@ -10290,7 +10290,7 @@
             "pleuvait",
             null,
             null,
-            "pleuvaient"
+            null
         ],
         "G": [
             "pleuvant"
