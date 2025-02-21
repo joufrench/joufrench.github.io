@@ -71,10 +71,8 @@ document.addEventListener("keydown", function(event) {
       answer_given = null;
       console.log(answer_given)
     }
-    if (answer_given == null){
-      return;
-    }
-    else if (answer_given == ans){
+    
+    else if (answer_given === ans){
       right += 1
       yesno.innerHTML = ("Correct")
       possible = make_list()
