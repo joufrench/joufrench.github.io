@@ -112,7 +112,7 @@
         "aufstehen"
     ],
     "jeter": [
-        "(weg)werfen"
+        "werfen"
     ],
     "répéter": [
         "wiederholen"
@@ -140,7 +140,7 @@
         "spazieren"
     ],
     "appeler": [
-        "(an)rufen"
+        "anrufen"
     ],
     "s'appeler": [
         "heissen"
@@ -253,7 +253,7 @@
     "sortir": [
         "ausgehen",
         "in den Ausgang gehen",
-        "herausgeben (Bericht, etc.)"
+        "herausgeben"
     ],
     "mentir": [
         "lügen"
@@ -274,7 +274,7 @@
         "fliehen"
     ],
     "attendre": [
-        "(er-)warten"
+        "erwarten"
     ],
     "défendre": [
         "verteidigen"
@@ -311,7 +311,7 @@
         "malen"
     ],
     "éteindre": [
-        "löschen (Licht)"
+        "löschen"
     ],
     "atteindre": [
         "erreichen"
