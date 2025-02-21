@@ -37,7 +37,7 @@ fetch("./translations.json")
       console.log(answer_given)
     }
     
-    if (answer_given === ans){
+    if (ans.includes(answer_given)){
       right += 1
       yesno.innerHTML = ("Correct")
       possible = make_list()
