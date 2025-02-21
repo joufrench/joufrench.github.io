@@ -18,10 +18,12 @@ fetch("./output.json")
   var inputed = document.getElementById("conju");
   var yesno = document.querySelector(".yesno");
   var rate = document.getElementById("rate");
-  var correct_ans = document.getElementById("correct_ans")
+  var correct_ans = document.getElementById("correct_ans");
+  
 
   var wrong = 0
   var right = 0
+
 
   cho.addEventListener('click',()=>{
     possible = make_list()
@@ -50,6 +52,17 @@ fetch("./output.json")
     }
    rate.innerHTML = right + "/" + (wrong+right)
 })
+
+document.getElementById("mode").addEventListener("change", function(event) {
+  mode = event.target.value;
+  if (mode === "german"){
+    window.location.href = "german.html";
+  }
+  if (mode === "all"){
+    window.location.href = "index.html";
+  }
+  console.log("Mode changed to:", mode);
+});
 
 document.addEventListener("keydown", function(event) {
   if (event.keyCode === 13) {
@@ -121,7 +134,7 @@ function update_verb(possible){
       tense = "A"
     }
     else if(tense == "PQP"){
-      tense_displayable = "(Plus-que-parfait)"
+      tense_displayable = "(Plus-que-parfait"
       tense = "PQP"
     }
     else if(tense == "I"){
