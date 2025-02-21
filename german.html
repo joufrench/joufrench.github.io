@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>French</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="settings">
+            <h1>Verbs French</h1>
+            <div class="holders">
+                <div class="mode">
+                    <select name="mode" id="mode">
+                        <option value="german">German</option>
+                        <option value="all">ALL</option>
+                        <option value="made">Made by Leo</option>
+                    </select>
+                </div>
+                <div class="ending">
+                    <select name="verb_ending" id="verb_ending">
+                    <option value="all_e">All</option>
+                    <option value="er">-er</option>
+                    <option value="ir">-ir</option>
+                    <option value="oir">-oir</option>
+                    <option value="re">-re</option>
+                    </select>
+                </div>
+                <div class="time">
+                    <select name="lang" id="lang">
+                        <option value="all_t">All</option>
+                        <option value="DE">German</option>
+                        <option value="EN">English</option>
+                        </select>
+                </div>
+                <button type="submit" id="cho">Set</button>
+            </div>
+        </div>
+        <div class="main">
+            <span id="verb_display"></span>
+            <span id="person_display"></span>
+            <input type="text" name="Conjugation" id="conju" placeholder="Translation">
+            <button id="sub">Submit</button>
+            <span id="correct_ans"></span>
+            <span class="yesno"></span>
+            <span id="rate"></span>
+        </div>
+    </div>
+    <script src="main2.js"></script>
+</body>
+</html>

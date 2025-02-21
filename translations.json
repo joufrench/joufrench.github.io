@@ -1,0 +1,427 @@
+{
+    "aimer": [
+        "lieben",
+        "mögen"
+    ],
+    "arrêter": [
+        "aufhören",
+        "abstellen"
+    ],
+    "bavarder": [
+        "schwatzen"
+    ],
+    "cacher": [
+        "verstecken"
+    ],
+    "chercher": [
+        "suchen"
+    ],
+    "danser": [
+        "tanzen"
+    ],
+    "donner": [
+        "geben"
+    ],
+    "entrer": [
+        "eintreten"
+    ],
+    "fermer": [
+        "schliessen"
+    ],
+    "grimper": [
+        "klettern"
+    ],
+    "habiter": [
+        "wohnen"
+    ],
+    "inventer": [
+        "erfinden"
+    ],
+    "jouer": [
+        "spielen"
+    ],
+    "laver": [
+        "waschen"
+    ],
+    "monter": [
+        "steigen"
+    ],
+    "oublier": [
+        "vergessen"
+    ],
+    "parler": [
+        "sprechen"
+    ],
+    "raconter": [
+        "erzählen"
+    ],
+    "regarder": [
+        "schauen"
+    ],
+    "saluer": [
+        "grüssen"
+    ],
+    "siffler": [
+        "pfeifen"
+    ],
+    "téléphoner": [
+        "telefonieren"
+    ],
+    "tirer": [
+        "ziehen",
+        "schiessen"
+    ],
+    "voler": [
+        "stehlen",
+        "fliegen"
+    ],
+    "commencer": [
+        "anfangen, beginnen"
+    ],
+    "manger": [
+        "essen"
+    ],
+    "nager": [
+        "schwimmen"
+    ],
+    "lancer": [
+        "werfen"
+    ],
+    "cueillir": [
+        "pflücken"
+    ],
+    "ouvrir": [
+        "öffnen"
+    ],
+    "couvrir": [
+        "bedecken"
+    ],
+    "offrir": [
+        "anbieten"
+    ],
+    "souffrir": [
+        "leiden"
+    ],
+    "mener": [
+        "führen"
+    ],
+    "lever": [
+        "hochheben"
+    ],
+    "se lever": [
+        "aufstehen"
+    ],
+    "jeter": [
+        "(weg)werfen"
+    ],
+    "répéter": [
+        "wiederholen"
+    ],
+    "espérer": [
+        "hoffen"
+    ],
+    "envoyer": [
+        "schicken"
+    ],
+    "acheter": [
+        "kaufen"
+    ],
+    "enlever": [
+        "wegnehmen"
+    ],
+    "peser": [
+        "wägen",
+        "wiegen"
+    ],
+    "promener": [
+        "spazieren führen"
+    ],
+    "se promener": [
+        "spazieren"
+    ],
+    "appeler": [
+        "(an)rufen"
+    ],
+    "s'appeler": [
+        "heissen"
+    ],
+    "épeler": [
+        "buchstabieren"
+    ],
+    "exagérer": [
+        "übertreiben"
+    ],
+    "inquiéter": [
+        "beunruhigen, Sorgen machen"
+    ],
+    "protéger": [
+        "beschützen"
+    ],
+    "sécher": [
+        "trocknen"
+    ],
+    "ennuyer": [
+        "langweilen",
+        "nerven"
+    ],
+    "nettoyer": [
+        "reinigen"
+    ],
+    "essayer": [
+        "versuchen, probieren"
+    ],
+    "payer": [
+        "bezahlen"
+    ],
+    "essuyer": [
+        "abtrocknen",
+        "abwischen"
+    ],
+    "applaudir": [
+        "klatschen"
+    ],
+    "atterrir": [
+        "landen"
+    ],
+    "choisir": [
+        "auswählen"
+    ],
+    "finir": [
+        "beenden"
+    ],
+    "maigrir": [
+        "abnehmen"
+    ],
+    "obéir": [
+        "gehorchen"
+    ],
+    "punir": [
+        "bestrafen"
+    ],
+    "remplir": [
+        "füllen"
+    ],
+    "rôtir": [
+        "braten"
+    ],
+    "garantir": [
+        "garantieren"
+    ],
+    "grandir": [
+        "aufwachsen",
+        "älter werden"
+    ],
+    "grossir": [
+        "zunehmen"
+    ],
+    "jaunir": [
+        "gelb werden",
+        "gelb färben"
+    ],
+    "réfléchir": [
+        "nachdenken"
+    ],
+    "réussir": [
+        "Erfolg haben",
+        "bestehen"
+    ],
+    "rougir": [
+        "rot werden"
+    ],
+    "vieillir": [
+        "altern"
+    ],
+    "mourir": [
+        "sterben"
+    ],
+    "courir": [
+        "laufen",
+        "rennen"
+    ],
+    "venir": [
+        "kommen"
+    ],
+    "tenir": [
+        "halten"
+    ],
+    "dormir": [
+        "schlafen"
+    ],
+    "partir": [
+        "abreisen"
+    ],
+    "sortir": [
+        "ausgehen",
+        "in den Ausgang gehen",
+        "herausgeben (Bericht, etc.)"
+    ],
+    "mentir": [
+        "lügen"
+    ],
+    "sentir": [
+        "fühlen",
+        "riechen"
+    ],
+    "servir": [
+        "bedienen",
+        "nutzen"
+    ],
+    "fuir": [
+        "fliehen"
+    ],
+    "s'enfuir": [
+        "davon laufen",
+        "fliehen"
+    ],
+    "attendre": [
+        "(er-)warten"
+    ],
+    "défendre": [
+        "verteidigen"
+    ],
+    "descendre": [
+        "hinuntersteigen"
+    ],
+    "entendre": [
+        "hören"
+    ],
+    "perdre": [
+        "verlieren"
+    ],
+    "rendre": [
+        "zurückgeben"
+    ],
+    "répondre": [
+        "antworten"
+    ],
+    "vendre": [
+        "verkaufen"
+    ],
+    "rompre": [
+        "brechen"
+    ],
+    "craindre": [
+        "befürchten"
+    ],
+    "plaindre": [
+        "beklagen",
+        "bedauern"
+    ],
+    "peindre": [
+        "malen"
+    ],
+    "éteindre": [
+        "löschen (Licht)"
+    ],
+    "atteindre": [
+        "erreichen"
+    ],
+    "conduire": [
+        "führen",
+        "fahren"
+    ],
+    "construire": [
+        "bauen"
+    ],
+    "traduire": [
+        "übersetzen"
+    ],
+    "produire": [
+        "ergeben",
+        "erzeugen"
+    ],
+    "connaître": [
+        "kennen"
+    ],
+    "paraître": [
+        "scheinen"
+    ],
+    "naître": [
+        "geboren werden"
+    ],
+    "plaire": [
+        "gefallen"
+    ],
+    "se taire": [
+        "schweigen"
+    ],
+    "prendre": [
+        "nehmen"
+    ],
+    "mettre": [
+        "setzen",
+        "stellen",
+        "legen"
+    ],
+    "battre": [
+        "schlagen"
+    ],
+    "lire": [
+        "lesen"
+    ],
+    "boire": [
+        "trinken"
+    ],
+    "vivre": [
+        "leben"
+    ],
+    "croire": [
+        "glauben"
+    ],
+    "rire": [
+        "lachen"
+    ],
+    "suivre": [
+        "folgen"
+    ],
+    "suffire": [
+        "genügen"
+    ],
+    "faire": [
+        "machen"
+    ],
+    "dire": [
+        "sagen"
+    ],
+    "écrire": [
+        "schreiben"
+    ],
+    "recevoir": [
+        "erhalten"
+    ],
+    "décevoir": [
+        "enttäuschen"
+    ],
+    "apercevoir": [
+        "erblicken"
+    ],
+    "devoir": [
+        "müssen"
+    ],
+    "pouvoir": [
+        "können"
+    ],
+    "vouloir": [
+        "wollen"
+    ],
+    "falloir": [
+        "müssen",
+        "notwendig sein"
+    ],
+    "valoir": [
+        "gelten",
+        "Wert haben"
+    ],
+    "s'asseoir": [
+        "sich setzen"
+    ],
+    "savoir": [
+        "wissen"
+    ],
+    "voir": [
+        "sehen"
+    ],
+    "pleuvoir": [
+        "regnen"
+    ]
+}
