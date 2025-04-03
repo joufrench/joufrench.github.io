@@ -1,5 +1,7 @@
 var data; // Declare a variable to store the fetched data
-
+if (/Mobi|Android|iPhone/i.test(navigator.userAgent)) {
+  document.body.innerHTML = "This website is not available on mobile devices.";
+}
 fetch("./output.json")
   .then(function(response) {
     return response.text();
